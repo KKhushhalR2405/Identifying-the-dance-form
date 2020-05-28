@@ -19,3 +19,7 @@ Accuracy achieved : 82.05 %
 ### Machine Learning Library used
 
 [Pytorch](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html)
+
+Dataset,output file and Saved model can be found [here](https://drive.google.com/drive/folders/1tBrwl3MknlsGWOTbBm2SggzQ87wMm7pQ?usp=sharing)
+
+----------------------------------------------------------------------------------------------------------------------------------------
